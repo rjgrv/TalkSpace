@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App - TalkSpace✨
 
-![Demo App](fullstack-chat-app-master\frontend\public\image.png)
+![Demo App](./frontend/public/image.png)
 
 Highlights:
 
